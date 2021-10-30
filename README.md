@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minjeadev
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI and TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
