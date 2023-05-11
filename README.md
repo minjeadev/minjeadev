@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @minjeadev
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning AI and TypeScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello World
 
-<!---
-minjeadev/minjeadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjeadev%2Fhit-counter&count_bg=%23D3D3D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true)](https://hits.seeyoufarm.com)
+
+## I'm [**minjeadev**](https://github.com/zmdlw?tab=repositories) and welcome to my GitHub profile!
+
+![Metrics](https://metrics.lecoq.io/minjeadev?template=classic&isocalendar=1&habits=1&fortune=1&repositories=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=Asia%2FSeoul)
